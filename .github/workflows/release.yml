@@ -23,7 +23,7 @@ jobs:
 
 
   publish-gpr:
-    if: github.event.pull_request.merged == true
+    if: github.event.pull_request.merged == true || github.ref == 'refs/head/main'
     needs: build
     runs-on: ubuntu-latest
     permissions:
