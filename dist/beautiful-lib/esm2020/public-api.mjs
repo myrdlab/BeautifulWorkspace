@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of beautiful-lib
+ */
+export * from './lib/beautiful-lib.service';
+export * from './lib/beautiful-lib.component';
+export * from './lib/beautiful-lib.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2JlYXV0aWZ1bC1saWIvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYmVhdXRpZnVsLWxpYlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2JlYXV0aWZ1bC1saWIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9iZWF1dGlmdWwtbGliLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9iZWF1dGlmdWwtbGliLm1vZHVsZSc7XG4iXX0=
