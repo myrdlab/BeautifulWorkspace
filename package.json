@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "pack": "cd dist/beautiful-lib && npm pack",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
