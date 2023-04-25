@@ -38,6 +38,7 @@ jobs:
           scope: '@myrdlab'
       - run: ls
       - run: pwd
+      - run: ls
       - run: cd dist/beautiful-lib && npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
