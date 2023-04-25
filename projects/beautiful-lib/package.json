@@ -1,5 +1,5 @@
 {
-  "name": "beautiful-lib",
+  "name": "@myrdlab/beautiful-lib",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^15.2.0",
@@ -7,6 +7,13 @@
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:myrdlab/beautifulworkspace"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@myrdlab"
   },
   "sideEffects": false
 }
